@@ -1,1 +1,3 @@
-dask>=2024.1.0
+dask
+dask[complete]
+dask[dataframe]
